@@ -1,7 +1,7 @@
 YouTube + [![version](https://img.shields.io/github/release/Ociidii-Works/Particle.svg)](https://github.com/Ociidii-Works/Particle/releases/latest) [![issues](https://img.shields.io/github/issues/Ociidii-Works/Particle.svg)](https://github.com/Ociidii-Works/Particle/issues)
 ===========
 
-**[Download](https://github.com/ParticleCore/Particle/wiki/Download) | [Features](https://github.com/ParticleCore/Particle/wiki/Features)
+**[Download](https://github.com/ParticleCore/Particle/wiki/Download) | [Features](https://github.com/ParticleCore/Particle/wiki/Features)**
 
 YouTube + (codename Particle) is focused on providing an extended YouTube experience.
 
